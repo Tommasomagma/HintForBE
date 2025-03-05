@@ -2,8 +2,8 @@ from PIL import Image, ImageDraw
 
 def drawStroke(strokes):
 
-   #Define size of image
-    size = 600
+    #Define size of image
+    size = 800
 
     # Create canvas with fixed dimensions
     canvas_size = (size, size)
